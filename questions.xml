@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+<easy>
+<question>
+<questionText>What temperature does water boil at?</questionText>
+<answer Correct="false">1000C</answer>
+<answer Correct="true">100C</answer>
+<answer Correct="false">-10C</answer>
+<answer Correct="false">15C</answer>
+</question>
+
+<question>
+<questionText>How many states are there in the United States of America?</questionText>
+<answer Correct="false">10</answer>
+<answer Correct="false">57</answer>
+<answer Correct="false">56</answer>
+<answer Correct="true">50</answer>
+</question> 
+
+<question>
+<questionText>What’s the name of the famous big clock in London?</questionText>
+<answer Correct="false">Big John</answer>
+<answer Correct="false">London Clock</answer>
+<answer Correct="true">Big Ben</answer>
+<answer Correct="false">Big Clock</answer>
+</question> 
+
+<question>
+<questionText>Who start(s) first in chess?</questionText>
+<answer Correct="true">White</answer>
+<answer Correct="false">Black</answer>
+<answer Correct="false">Both</answer>
+<answer Correct="false">Does not matter</answer>
+</question> 
+
+<question>
+<questionText>What colours make purple?</questionText>
+<answer Correct="false">Pink and Black</answer>
+<answer Correct="true">Blue and Red</answer>
+<answer Correct="false">Blue and Orange</answer>
+<answer Correct="false">White and Red</answer>
+</question>
+
+<question>
+<questionText>Which is the only mammal that can’t jump?</questionText>
+<answer Correct="false">Otter</answer>
+<answer Correct="false">Sloth</answer>
+<answer Correct="false">Hamster</answer>
+<answer Correct="true">Elephant</answer>
+</question>
+
+<question>
+<questionText>Which is the largest ocean?</questionText>
+<answer Correct="false">Atlantic</answer>
+<answer Correct="false">Arctic</answer>
+<answer Correct="true">Pacific</answer>
+<answer Correct="false">Indian</answer>
+</question>
+
+<question>
+<questionText>Which planet is closer to earth?</questionText>
+<answer Correct="true">Venus</answer>
+<answer Correct="false">Mercury</answer>
+<answer Correct="false">Mars</answer>
+<answer Correct="false">Jupiter</answer>
+</question>
+
+<question>
+<questionText>Who is the author of the “Harry Potter” books?</questionText>
+<answer Correct="false">Agatha Christie</answer>
+<answer Correct="false">Ernest Hemingway</answer>
+<answer Correct="true">AJK Rowling</answer>
+<answer Correct="false">Penny Jordan</answer>
+</question>
+
+<question>
+<questionText>Approximately 2% of all people have what eye color?</questionText>
+<answer Correct="false">Blue</answer>
+<answer Correct="true">Green</answer>
+<answer Correct="false">Grey</answer>
+<answer Correct="false">Red</answer>
+</question>
+
+<question>
+<questionText>What fast food franchise has the most worldwide locations?</questionText>
+<answer Correct="false">Dominos Pizza</answer>
+<answer Correct="false">McDonald's</answer>
+<answer Correct="true">Subway</answer>
+<answer Correct="false">Burgerking</answer>
+</question>
+
+<question>
+<questionText>What is a baby swan called?</questionText>
+<answer Correct="true">A cygnet</answer>
+<answer Correct="false">A swan</answer>
+<answer Correct="false">A swammy</answer>
+<answer Correct="false">A small swan</answer>
+</question>
+
+<question>
+<questionText>The term “déjà vu” comes from what language?</questionText>
+<answer Correct="false">Italian</answer>
+<answer Correct="false">Spanish</answer>
+<answer Correct="true">French</answer>
+<answer Correct="false">Portugese</answer>
+</question>
+
+<question>
+<questionText>Which continent is also a country?</questionText>
+<answer Correct="false">Africa</answer>
+<answer Correct="true">Astralia</answer>
+<answer Correct="false">Asia</answer>
+<answer Correct="false">North America</answer>
+</question>
+
+<question>
+<questionText>What Harvard dropout co-founded Microsoft?</questionText>
+<answer Correct="false">Eduardo Saverin</answer>
+<answer Correct="false">Mark Zuckerberg</answer>
+<answer Correct="true">Bill Gates</answer>
+<answer Correct="false">Steve Jobs</answer>
+</question>
+
+<question>
+<questionText>What is the capital of USA?</questionText>
+<answer Correct="false">California</answer>
+<answer Correct="false">Chicago</answer>
+<answer Correct="false">New York</answer>
+<answer Correct="true">Washington DC</answer>
+</question>
+
+<question>
+<questionText>Which river flows through London?</questionText>
+<answer Correct="false">Ganges</answer>
+<answer Correct="false">Nile</answer>
+<answer Correct="true">The Thames</answer>
+<answer Correct="false">Danube</answer>
+</question>
+
+<question>
+<questionText>What is the name of the toy cowboy in Toy Story?</questionText>
+<answer Correct="true">Woody</answer>
+<answer Correct="false">Johnny</answer>
+<answer Correct="false">George</answer>
+<answer Correct="false">Marko</answer>
+</question>
+
+<question>
+<questionText>What does F stand for in FBI?</questionText>
+<answer Correct="false">Forever</answer>
+<answer Correct="false">Funny</answer>
+<answer Correct="true">Federal</answer>
+<answer Correct="false">Fatal</answer>
+</question>
+
+<question>
+<questionText>The infection of AIDS occurs through the contamination of:</questionText>
+<answer Correct="false">Saliva</answer>
+<answer Correct="true">Blood</answer>
+<answer Correct="false">Stomach</answer>
+<answer Correct="false">Genitals</answer>
+</question>
+
+<question>
+<questionText>What part of the banana is used to make banana oil?</questionText>
+<answer Correct="false">The inside</answer>
+<answer Correct="false">The peel</answer>
+<answer Correct="true">No part</answer>
+<answer Correct="false">Everything</answer>
+</question>
+
+<question>
+<questionText>How many countries had sign in UNEP?</questionText>
+<answer Correct="true">120</answer>
+<answer Correct="false">122</answer>
+<answer Correct="false">130</answer>
+<answer Correct="false">50</answer>
+</question>
+
+<question>
+<questionText>Entomology is the science that studies:</questionText>
+<answer Correct="false">Behavior of human beings</answer>
+<answer Correct="false">The origin and history of technical and scientific terms</answer>
+<answer Correct="true">Insects</answer>
+<answer Correct="false">The formation of rocks</answer>
+</question>
+
+<question>
+<questionText>Galileo was an Italian astronomer who:</questionText>
+<answer Correct="false">Developed the telescope</answer>
+<answer Correct="false">Discovered four satellites of Jupiter</answer>
+<answer Correct="false">Discovered that the movement of pendulum produces a regular time measurement</answer>
+<answer Correct="true">All of the above</answer>
+</question>
+
+<question>
+<questionText>Exposure to sunlight helps a person improve his health because:</questionText>
+<answer Correct="false">Resistance power increases</answer>
+<answer Correct="false">The pigment cells in the skin get stimulated and produce a healthy tan</answer>
+<answer Correct="true">The ultraviolet rays convert skin oil into Vitamin D</answer>
+<answer Correct="false">The infrared light kills bacteria in the body</answer>
+</question>
+</easy>
+
+<medium>
+<question>
+<questionText>When did the First World War start?</questionText>
+<answer Correct="true">1914</answer>
+<answer Correct="false">1900</answer>
+<answer Correct="false">1884</answer>
+<answer Correct="false">1915</answer>
+</question> 
+
+<question>
+<questionText>Who cut Van Gogh’s ear?</questionText>
+<answer Correct="false">His wife</answer>
+<answer Correct="true">He did</answer>
+<answer Correct="false">His brother</answer>
+<answer Correct="false">His mother</answer>
+</question> 
+
+<question>
+<questionText>How many children has Queen Elizabeth the Second got?</questionText>
+<answer Correct="false">6</answer>
+<answer Correct="false">0</answer>
+<answer Correct="false">3</answer>
+<answer Correct="true">4</answer>
+</question> 
+
+<question>
+<questionText>What language has the most words?</questionText>
+<answer Correct="true">English</answer>
+<answer Correct="false">Greek</answer>
+<answer Correct="false">Japanese</answer>
+<answer Correct="false">Chinese</answer>
+</question> 
+
+<question>
+<questionText>Where is the smallest bone in the body?</questionText>
+<answer Correct="false">Mouth</answer>
+<answer Correct="false">Toe</answer>
+<answer Correct="true">Ear</answer>
+<answer Correct="false">Eye</answer>
+</question> 
+
+<question>
+<questionText>How many dots are there on two dice?</questionText>
+<answer Correct="false">40</answer>
+<answer Correct="false">41</answer>
+<answer Correct="false">46</answer>
+<answer Correct="true">42</answer>
+</question>
+
+<question>
+<questionText>How many strings does a violin have?</questionText>
+<answer Correct="false">1</answer>
+<answer Correct="true">4</answer>
+<answer Correct="false">5</answer>
+<answer Correct="false">10</answer>
+</question>
+
+<question>
+<questionText>What is the name of the city where the cartoon family The Simpsons live?</questionText>
+<answer Correct="false">Nicosia</answer>
+<answer Correct="false">Sellersville</answer>
+<answer Correct="false">Boston</answer>
+<answer Correct="true">Springfield</answer>
+</question>
+
+<question>
+<questionText>What is the fear of clowns called?</questionText>
+<answer Correct="true">Coulrophobia</answer>
+<answer Correct="false">Clownophobia</answer>
+<answer Correct="false">Fear of Clowns</answer>
+<answer Correct="false">Coulophobia</answer>
+</question> 
+
+<question>
+<questionText>How many people have walked on the moon?</questionText>
+<answer Correct="true">12</answer>
+<answer Correct="false">10</answer>
+<answer Correct="false">15</answer>
+<answer Correct="false">7</answer>
+</question> 
+
+<question>
+<questionText>What is the most popular board game of all time?</questionText>
+<answer Correct="false">Scrabble</answer>
+<answer Correct="false">Monopoly</answer>
+<answer Correct="false">Cluedo</answer>
+<answer Correct="true">Chess</answer>
+</question>
+
+<question>
+<questionText>What Greek mathematician is considered the founder and father of Geometry?</questionText>
+<answer Correct="false">Anaxagoras</answer>
+<answer Correct="true">Euclid</answer>
+<answer Correct="false">Archimedes</answer>
+<answer Correct="false">Callipus</answer>
+</question>
+
+<question>
+<questionText>What was the first planet to be discovered using the telescope, in 1781?</questionText>
+<answer Correct="false">Venus</answer>
+<answer Correct="false">Neptune</answer>
+<answer Correct="false">Jupiter</answer>
+<answer Correct="true">Uranus</answer>
+</question> 
+
+<question>
+<questionText>What colour is Absynth?</questionText>
+<answer Correct="true">Green</answer>
+<answer Correct="false">Red</answer>
+<answer Correct="false">Brown</answer>
+<answer Correct="false">Yellow</answer>
+</question> 
+
+<question>
+<questionText>What is the minimum number of musicians a band must have to be considered a "big band"?</questionText>
+<answer Correct="false">12</answer>
+<answer Correct="false">5</answer>
+<answer Correct="true">10</answer>
+<answer Correct="false">15</answer>
+</question> 
+
+<question>
+<questionText>How many dots are there on two dice?</questionText>
+<answer Correct="false">40</answer>
+<answer Correct="false">41</answer>
+<answer Correct="false">46</answer>
+<answer Correct="true">42</answer>
+</question>
+
+<question>
+<questionText>How many strings does a violin have?</questionText>
+<answer Correct="false">1</answer>
+<answer Correct="true">4</answer>
+<answer Correct="false">5</answer>
+<answer Correct="false">10</answer>
+</question>
+
+<question>
+<questionText>What is the diameter of Earth?</questionText>
+<answer Correct="false">3500 miles</answer>
+<answer Correct="false">400000 miles</answer>
+<answer Correct="false">1000 miles</answer>
+<answer Correct="true">3000 miles</answer>
+</question>
+
+<question>
+<questionText>Which record label did Michael Jackson first record on?</questionText>
+<answer Correct="true">Motown</answer>
+<answer Correct="false">Epic Records</answer>
+<answer Correct="false">MJJ Music</answer>
+<answer Correct="false">Legacy Recordings</answer>
+</question> 
+
+<question>
+<questionText>On which continent did the samba originate?</questionText>
+<answer Correct="true">America</answer>
+<answer Correct="false">Europe</answer>
+<answer Correct="false">Asia</answer>
+<answer Correct="false">Africa</answer>
+</question> 
+
+<question>
+<questionText>On a computer keyboard, what letter is between Q and E?</questionText>
+<answer Correct="false">S</answer>
+<answer Correct="false">There is no letter in between</answer>
+<answer Correct="false">A</answer>
+<answer Correct="true">W</answer>
+</question>
+
+<question>
+<questionText>What type of animal is a "skink"?</questionText>
+<answer Correct="false">A fish</answer>
+<answer Correct="true">A lizard</answer>
+<answer Correct="false">A snake</answer>
+<answer Correct="false">An insect</answer>
+</question>
+
+<question>
+<questionText>Which of Shakespeare's plays is the shortest in length?</questionText>
+<answer Correct="false">Othello</answer>
+<answer Correct="false">Romeo and Juliet</answer>
+<answer Correct="false">Hamlet</answer>
+<answer Correct="true">The Comedy of Errors</answer>
+</question>
+
+<question>
+<questionText>Which talk-show hostess appeared in The Color Purple?</questionText>
+<answer Correct="true">Oprah Winfrey</answer>
+<answer Correct="false">Kelly Ripa</answer>
+<answer Correct="false">Wendy Williams</answer>
+<answer Correct="false">Ricki Lake</answer>
+</question> 
+
+<question>
+<questionText>What are Black-eyed peas?</questionText>
+<answer Correct="false">Flowers</answer>
+<answer Correct="false">Peas</answer>
+<answer Correct="false">American musical group</answer>
+<answer Correct="true">Beans</answer>
+</question>
+</medium>
+
+<difficult>
+<question>
+<questionText>Where was Christopher Columbus born?</questionText>
+<answer Correct="false">America</answer>
+<answer Correct="true">Genoa</answer>
+<answer Correct="false">Italy</answer>
+<answer Correct="false">France</answer>
+</question> 
+
+<question>
+<questionText>What’s the capital of Ecuador?</questionText>
+<answer Correct="true">Quito</answer>
+<answer Correct="false">Puerto Rico</answer>
+<answer Correct="false">Zambia</answer>
+<answer Correct="false">Cuenca</answer>
+</question>
+
+<question>
+<questionText>Who is the tallest basketball player in the world?</questionText>
+<answer Correct="false">Michael Jordan</answer>
+<answer Correct="false">James Lebron</answer>
+<answer Correct="true">Sun Mingming</answer>
+<answer Correct="false">Manute Boll</answer>
+</question>
+
+<question>
+<questionText>Spinach is high in which mineral?</questionText>
+<answer Correct="false">Calcium</answer>
+<answer Correct="true">Iron</answer>
+<answer Correct="false">Potassium</answer>
+<answer Correct="false">Chloride</answer>
+</question>
+
+<question>
+<questionText>How many NBA championships did Michael Jordan win with the Chicago Bulls?</questionText>
+<answer Correct="true">6</answer>
+<answer Correct="false">7</answer>
+<answer Correct="false">5</answer>
+<answer Correct="false">12</answer>
+</question>
+
+<question>
+<questionText>When referring to cables used to transmit audio/video, what does HDMI stand for?</questionText>
+<answer Correct="false">High-Defined Multimedia Interconnection</answer>
+<answer Correct="true">High-Definition Multimedia Interface</answer>
+<answer Correct="false">High-Definition Maximum Interface</answer>
+<answer Correct="false">High-Defined Multimedia Interfaces</answer>
+</question>
+
+<question>
+<questionText>What is the tallest building in the world?</questionText>
+<answer Correct="false">Dalian International Trade Center</answer>
+<answer Correct="false">Empire State Building</answer>
+<answer Correct="false">Shanghai Tower</answer>
+<answer Correct="true">The Burj Khalifa</answer>
+</question>
+
+<question>
+<questionText>In what year did the Titanic sink?</questionText>
+<answer Correct="true">1912</answer>
+<answer Correct="false">1902</answer>
+<answer Correct="false">1967</answer>
+<answer Correct="false">1999</answer>
+</question> 
+
+<question>
+<questionText>What is the name for the Greek goddess of victory?</questionText>
+<answer Correct="false">Hera</answer>
+<answer Correct="false">Aphrodite</answer>
+<answer Correct="true">Nike</answer>
+<answer Correct="false">Selene</answer>
+</question> 
+
+<question>
+<questionText>Which country does the famous physicist James Maxwell hail from?</questionText>
+<answer Correct="false">Austria</answer>
+<answer Correct="true">Scotland</answer>
+<answer Correct="false">France</answer>
+<answer Correct="false">Italy</answer>
+</question>
+
+<question>
+<questionText>Hawaiian women were once forbidden by law to consume one fruit. What was the fruit?</questionText>
+<answer Correct="false">Banana</answer>
+<answer Correct="true">Coconut</answer>
+<answer Correct="false">Passion Fruit</answer>
+<answer Correct="false">Pineapple</answer>
+</question> 
+
+<question>
+<questionText>How much do you think the average person's left hand types?</questionText>
+<answer Correct="true">56%</answer>
+<answer Correct="false">50%</answer>
+<answer Correct="false">20%</answer>
+<answer Correct="false">34%</answer>
+</question>
+
+<question>
+<questionText>'Adagio' is a musical term in Italy What does it mean?</questionText>
+<answer Correct="false">Left</answer>
+<answer Correct="false">Fast</answer>
+<answer Correct="true">Slow</answer>
+<answer Correct="false">Right</answer>
+</question>
+
+<question>
+<questionText>This musician is often referred to as the fifth Beatle:</questionText>
+<answer Correct="false">Yoko Ono</answer>
+<answer Correct="true">Pete Best</answer>
+<answer Correct="false">Ringo Starr</answer>
+<answer Correct="false">Pete Townsend</answer>
+</question>
+
+<question>
+<questionText>Solve this: (32 x 8) + 104 - 27</questionText>
+<answer Correct="true">333</answer>
+<answer Correct="false">331</answer>
+<answer Correct="false">324</answer>
+<answer Correct="false">352</answer>
+</question>
+
+<question>
+<questionText>What is the 21st prime number?</questionText>
+<answer Correct="false">50</answer>
+<answer Correct="true">73</answer>
+<answer Correct="false">163</answer>
+<answer Correct="false">41</answer>
+</question>
+
+<question>
+<questionText>Who does the voice over for Dory from "Finding Nemo" and "Finding Dory"?</questionText>
+<answer Correct="false">Elizabeth Perkins</answer>
+<answer Correct="false">Vicki Lewis</answer>
+<answer Correct="false">Allison Janney</answer>
+<answer Correct="true">Ellen Degeneres</answer>
+</question>
+
+<question>
+<questionText>Which liquor is made from the blue agave plant?</questionText>
+<answer Correct="true">Tequila</answer>
+<answer Correct="false">Vodka</answer>
+<answer Correct="false">Malibu</answer>
+<answer Correct="false">Rum</answer>
+</question> 
+
+<question>
+<questionText>What is sushi traditionally wrapped in?</questionText>
+<answer Correct="false">Soy paper</answer>
+<answer Correct="false">Spinach</answer>
+<answer Correct="true">Seaweed</answer>
+<answer Correct="false">Maki</answer>
+</question> 
+
+<question>
+<questionText>In what year did Nintendo release its first game console in North America?</questionText>
+<answer Correct="false">1989</answer>
+<answer Correct="true">1985</answer>
+<answer Correct="false">1988</answer>
+<answer Correct="false">1999</answer>
+</question>
+
+<question>
+<questionText>What is the largest bone in the human body?</questionText>
+<answer Correct="false">The tibia</answer>
+<answer Correct="true">The femur</answer>
+<answer Correct="false">The fibula</answer>
+<answer Correct="false">The humerus</answer>
+</question> 
+
+<question>
+<questionText>How many track events are there in a decathlon?</questionText>
+<answer Correct="true">4</answer>
+<answer Correct="false">5</answer>
+<answer Correct="false">10</answer>
+<answer Correct="false">7</answer>
+</question>
+
+<question>
+<questionText>Which US president served the shortest time in office?</questionText>
+<answer Correct="false">Ronald Reagan</answer>
+<answer Correct="false">Bill Clinton</answer>
+<answer Correct="true">William Henry Harrison</answer>
+<answer Correct="false">George H W Bush</answer>
+</question>
+
+<question>
+<questionText>Which pop album is the best selling of all time?</questionText>
+<answer Correct="false">Hotel California by Eagles</answer>
+<answer Correct="true">Thriller by Michael Jackson</answer>
+<answer Correct="false">The Wall by Pink Floyd</answer>
+<answer Correct="false">Back in Black by AC/DC</answer>
+</question>
+
+<question>
+<questionText>Who was the first man to reach the South Pole?</questionText>
+<answer Correct="true">Roald Amundsen</answer>
+<answer Correct="false">Christian Eide</answer>
+<answer Correct="false">Hannah McKeand</answer>
+<answer Correct="false">Aleksander Gamme</answer>
+</question>
+</difficult>
+</quiz>
